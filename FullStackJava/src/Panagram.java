@@ -1,4 +1,5 @@
 public class Panagram {
+	
 	public static void main(String[] args) {
 		String str = "The quick brown fox jumps over the lazy dog";
 		boolean[] alphaList = new boolean[26];
